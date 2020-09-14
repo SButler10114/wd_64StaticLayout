@@ -1,0 +1,96 @@
+  body {
+    background-image: url("https://slickdeals.net/blog/wp-content/uploads/2020/07/inbody-hero-hulu-movies-tv-sports-live-generic-background.jpg");
+    height: 150vh;
+    width: 150vw;  
+}
+   
+   #LogIn {
+     position: absolute;
+     top: 70px;
+     right: 0;
+     width: 200px;
+     height: 100px;
+     color: black;
+   }
+   #FreeTrial {
+    position: absolute;
+    margin-top: 330px;
+    left: 250px;
+    width: 600px;
+    height: 40px;
+    color: black;
+  }
+  #FreeTrial {
+  background: white;
+  color: #fff;
+  padding: 0.2rem 0.3rem;
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  border-radius: 2px;
+  }
+
+   #CenterScript {
+    position: absolute;
+    left: 350px;
+    top: 150px;
+    z-index: -1;
+    color:white;
+   }
+   #CenterScript {
+    font-family: "Times New Roman", Times, serif;
+  }
+   #CenterScript {
+    font-size: 20px;
+  }
+   .button {
+       background: transparent;
+       color: #fff;
+       padding: 0.2rem 0.3rem;
+       font-size: 1rem;
+       text-align: center;
+       border: none;
+       border-radius: 2px;
+   }
+   
+   /* .button-rounded {
+       border-radius: 5px; */
+   
+
+   .showcase-top {
+    width: 35px;
+    height: 50px;
+  }
+  img {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+   #Content1 {
+     position: relative;
+     top: 500px;
+     left: 0px;
+     z-index: 6;
+     color: white;
+     background: transparent;
+     border-bottom: 8px solid grey;
+   }
+   #Content2 {
+    position: relative;
+    top: 600px;
+    left: 0px;
+    z-index: 6;
+    color: white;
+    background: transparent;
+    border-bottom: 8px solid grey;
+  }
+  #Content3 {
+    position: relative;
+    top: 700px;
+    left: 0px;
+    z-index: 6;
+    color: white;
+    background: transparent;
+    border-bottom: 8px solid grey;
+  }
